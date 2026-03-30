@@ -175,12 +175,7 @@ https://github.com/Sanjayas27/flodo-tasks
 
 ---
 
-Press **Ctrl + S** to save.
 
-Then upload this updated README to GitHub:
-1. Click **Add file** → **Upload files**
-2. Drag just the `README.md` file
-3. Commit message:
+
+
 ```
-
-Update README with proper submission documentation
